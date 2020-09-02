@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">BroadcastReceiverDemo</string>
+    <string name="bat_perc_msg">%1$d%%</string>
+</resources>
